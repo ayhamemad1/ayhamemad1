@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26646650/README.md)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Automation+Builder;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
