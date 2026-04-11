@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst+%7C+Automation+Builder;Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ayham-mohammad-ali-343823226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
