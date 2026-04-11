@@ -75,8 +75,4 @@ Rule-based diagnostic chatbot for hardware troubleshooting.
 
 ## GitHub Stats
 
-![Ayham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayhamemad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhamemad1&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayhamemad1&theme=tokyonight&hide_border=true)
