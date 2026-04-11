@@ -1,61 +1,54 @@
-# 👋 Hi, I'm Ayham Mohammad Ali
-
-AI & ML Developer | Data Analyst | B.Sc. AI @ MEU  
-Experienced in building machine learning pipelines, deploying real-time dashboards, and delivering scalable backend solutions.
-
+Ayham Mohammad Ali
+AI & Machine Learning Engineer · Data Analyst · B.Sc. Artificial Intelligence
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
 ---
-
-##  Key Projects
-
--  **CardioRisk – Heart Disease Prediction**
-  - 96% F1-score, Streamlit real-time dashboard, deployed with sub-second latency.
-
--  **Loan Approval Optimization**
-  - SMOTE-enhanced model, +24% recall on imbalanced bank data.
-
--  **COVID-19 Impact Analysis**
-  - Dashboard of 15+ countries’ trends using Matplotlib & Seaborn.
-
--  **Online Airline Reservation System**
-  - Modular backend with 200+ simulated users and 99.8% uptime.
-
+About Me
+Engineer specializing in AI and machine learning with a strong foundation in data analytics. I build end-to-end machine learning pipelines, automation tools, and data-driven applications. I care about clean code, reproducible workflows, and turning raw data into real impact.
 ---
-
-##  Tech Stack
-
-**Languages:** Python, SQL, R, C++  
-**Libraries:** scikit-learn, TensorFlow, Keras, XGBoost, Pandas, NumPy  
-**Tools:** Streamlit, Tableau, Power BI, Jupyter, Git  
-**Databases:** MySQL, SQLite  
-**Cloud:** AWS, Google Cloud
-
+Featured Projects
+CardioRisk — Heart Disease Prediction
+End-to-end ML pipeline for cardiovascular risk assessment.  
+`XGBoost` `Random Forest` `SHAP` `Streamlit`
+96% F1-score with cross-validated hyperparameter tuning
+SHAP-based explainability for non-technical stakeholders
+Real-time web dashboard with sub-second inference
+Bank Loan Approval Optimization
+Classification pipeline on imbalanced financial data.  
+`scikit-learn` `SMOTE` `Pandas` `Matplotlib`
++24% recall improvement using SMOTE oversampling
+Feature engineering and visual analytics dashboard
+End-to-end pipeline from raw data to model evaluation
+COVID-19 Impact Dashboard
+Multi-country trend analysis across 15+ countries.  
+`Python` `Matplotlib` `Seaborn` `Pandas`
+TechBot — PC Diagnosis
+Rule-based diagnostic chatbot for hardware troubleshooting.  
+`Python` `NLP`
 ---
-
-##  Education
-
-**B.Sc. in Artificial Intelligence**  
-Middle East University, Jordan (2021–2025)
-
+Tech Stack
+Languages — Python · SQL · R · C++  
+ML & Data — scikit-learn · XGBoost · TensorFlow · Keras · SHAP · Pandas · NumPy  
+Visualization — Streamlit · Tableau · Power BI · Matplotlib · Seaborn  
+Databases — MySQL · SQL Server · SQLite  
+Tools — Git · Jupyter · VS Code · ACL Analytics
 ---
-
-##  Certifications
-
-- Huawei HCIA (2023)
-- IBM ML with Python – Coursera
-- Git & GitHub – Google (2024)
-- Tech for Jobs 7 – Correlation One
-
+Experience
+Data Analytics & Automation Officer — ZeeDimension (Jan 2026 – Present)  
+AI-Driven Audit Analyst — ZeeDimension (Oct 2025 – Dec 2025)  
+Data Analyst Intern — Correlation One (Oct 2024 – Mar 2025) — Top 5% Honors
 ---
-
-##  Reach Me
-
-- Email: [ayham203@outlook.com](mailto:ayham203@outlook.com)
-- LinkedIn: [linkedin.com/in/ayham-mohammad-ali-343823226](https://linkedin.com/in/ayham-mohammad-ali-343823226)
-- GitHub: [@ayhamemad1](https://github.com/ayhamemad1)
-
+Education
+B.Sc. Artificial Intelligence — Middle East University, Jordan (2021–2025)
 ---
-
-## Languages
-
-- Arabic: Native 🇯🇴
-- English: Fluent 🇬🇧
+Certifications
+Google Data Analytics Professional Certificate
+Huawei HCIA — Certified ICT Associate
+IBM Machine Learning with Python
+Python Data Associate — DataCamp
+Correlation One Advanced Data Analytics — Honors & Community Distinction
+---
+GitHub Stats
+![Ayham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayhamemad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhamemad1&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayhamemad1&theme=tokyonight&hide_border=true)
