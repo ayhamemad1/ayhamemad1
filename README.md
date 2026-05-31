@@ -77,17 +77,17 @@ ChatGPT-style retrieval augmented generation workspace for grounded Q&A over cus
 </td>
 <td width="50%">
 
-### CardioRisk - Heart Disease Prediction
+### LLM Audit Assistant
 
-Machine learning pipeline for cardiovascular risk prediction with model evaluation and explainability.
+Retrieval-based audit assistant that answers questions from audit policies, financial reports, and exception logs using grounded evidence.
 
-`Machine Learning` `XGBoost` `Random Forest` `SHAP` `Streamlit`
+`RAG` `Audit AI` `Financial Reports` `Exception Logs` `Python` `scikit-learn`
 
-- End-to-end classification workflow
-- Model comparison and evaluation
-- Explainability-focused user experience
+- Indexes audit policies, reports, CSV logs, and JSON evidence files
+- Retrieves supporting snippets and returns citation-style evidence
+- Includes exception-log triage, grounded answers, tests, and CLI workflow
 
-[View Project](https://github.com/ayhamemad1/Cardio)
+[View Project](https://github.com/ayhamemad1/finstatement-ai-analyzer/tree/main/llm-audit-assistant)
 
 </td>
 </tr>
