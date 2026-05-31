@@ -18,9 +18,11 @@
 
 ## About Me
 
-I build AI systems that turn messy data, documents, and business workflows into useful software. My work focuses on applied machine learning, RAG systems, automation, dashboards, financial analysis, and agent-style applications that people can actually use.
+I build practical AI and data systems for finance, audit, operations, and document-heavy workflows. My work combines Python, JavaScript, analytics, RAG, automation, and clean interfaces to turn raw files, bank statements, policies, logs, and business data into usable software.
 
-I like projects that combine clean engineering with real business value: extracting information from documents, analyzing transactions, building AI assistants, and creating decision dashboards.
+I focus on projects that feel close to real internal tools: local-first workflows, grounded AI outputs, dashboards built for decisions, readable documentation, and testable logic. I am especially interested in financial intelligence, audit automation, document extraction, and AI assistants that can explain where their answers came from.
+
+**Current focus:** RAG systems with citations, finance and audit automation, AI operations dashboards, and document intelligence pipelines.
 
 ---
 
@@ -32,13 +34,13 @@ I like projects that combine clean engineering with real business value: extract
 
 ### Nexus AI Command Center
 
-Massive enterprise AI operations dashboard for coordinating agents, projects, risks, knowledge, analytics, and executive briefings.
+Enterprise-style AI operations dashboard for supervising agents, project risk, knowledge, analytics, and executive decision workflows.
 
 `AI Agents` `OpenAI` `Dashboard` `Risk Analytics` `JavaScript` `Node.js`
 
-- Multi-agent workspace with roles, workload, confidence, and impact
+- Multi-agent workspace with roles, workload, confidence, impact, and next actions
 - Project portfolio board, risk register, risk matrix, and decision queue
-- Local executive brief engine with optional OpenAI backend
+- Local executive brief engine with optional OpenAI-backed board memo generation
 
 [View Project](https://github.com/ayhamemad1/nexus-ai-command-center)
 
@@ -47,13 +49,13 @@ Massive enterprise AI operations dashboard for coordinating agents, projects, ri
 
 ### FinStatement AI Analyzer
 
-Professional financial statement intelligence app for parsing bank transactions, detecting anomalies, and generating finance insights.
+Financial and audit intelligence toolkit for bank-statement analytics, anomaly detection, reconciliation, and audit document workflows.
 
-`Finance AI` `CSV Parsing` `Analytics` `OpenAI` `JavaScript` `Node.js`
+`Finance AI` `Audit Automation` `Analytics` `OpenAI` `JavaScript` `Python`
 
-- Imports CSV, TSV, JSON, and pasted bank-statement data
-- Categorizes spending, detects recurring payments, and flags anomalies
-- Includes dashboards, charts, transaction ledger, and analyst memo
+- Parses statement data, categorizes transactions, and detects recurring payments
+- Adds Python audit tools for document extraction, validation, and reconciliation
+- Includes dashboards, charts, transaction ledger, analyst memo, samples, tests, and CI
 
 [View Project](https://github.com/ayhamemad1/finstatement-ai-analyzer)
 
@@ -64,13 +66,13 @@ Professional financial statement intelligence app for parsing bank transactions,
 
 ### ChatGPT RAG Studio
 
-ChatGPT-style retrieval augmented generation workspace for grounded Q&A over custom knowledge bases.
+Local-first RAG workspace for grounded question answering over custom knowledge bases, with citations and retrieval analytics.
 
 `RAG` `OpenAI` `Knowledge Base` `Citations` `JavaScript` `Node.js`
 
-- Local document indexing with retrieved evidence and citations
-- Strict grounding mode and query coverage analytics
-- OpenAI Responses API proxy plus local fallback mode
+- Local document indexing with retrieved evidence, citations, and source coverage
+- Strict grounding mode, retrieval map, saved sessions, and Markdown export
+- OpenAI backend proxy plus local extractive fallback mode
 
 [View Project](https://github.com/ayhamemad1/chatgpt-rag-studio)
 
@@ -79,13 +81,13 @@ ChatGPT-style retrieval augmented generation workspace for grounded Q&A over cus
 
 ### LLM Audit Assistant
 
-Retrieval-based audit assistant that answers questions from audit policies, financial reports, and exception logs using grounded evidence.
+Python RAG assistant for audit policies, financial reports, and exception logs, designed around evidence-backed answers.
 
 `RAG` `Audit AI` `Financial Reports` `Exception Logs` `Python` `scikit-learn`
 
-- Indexes audit policies, reports, CSV logs, and JSON evidence files
-- Retrieves supporting snippets and returns citation-style evidence
-- Includes exception-log triage, grounded answers, tests, and CLI workflow
+- Indexes audit policies, financial reports, CSV logs, and JSON evidence files
+- Retrieves supporting snippets and returns citation-style evidence for review
+- Includes exception-log triage, grounded answers, tests, samples, and CLI workflow
 
 [View Project](https://github.com/ayhamemad1/finstatement-ai-analyzer/tree/main/llm-audit-assistant)
 
@@ -99,11 +101,11 @@ Retrieval-based audit assistant that answers questions from audit policies, fina
 
 | Area | Tools and Focus |
 |---|---|
-| **AI Applications** | RAG systems, AI agents, OpenAI APIs, prompt design, local-first AI tools |
+| **AI Applications** | RAG systems, AI agents, OpenAI APIs, grounding, citations, prompt design |
 | **Machine Learning** | scikit-learn, XGBoost, TensorFlow, Keras, SHAP, classification, model evaluation |
-| **Data Analytics** | Python, Pandas, NumPy, SQL, dashboards, financial analysis, automation |
-| **Document Intelligence** | PDF parsing, OCR workflows, bank statements, bilingual Arabic/English extraction |
-| **Software** | JavaScript, Node.js, HTML/CSS, Git, GitHub, VS Code |
+| **Data Analytics** | Python, Pandas, NumPy, SQL, dashboards, financial analysis, workflow automation |
+| **Document Intelligence** | PDF parsing, OCR workflows, bank statements, audit evidence, Arabic/English extraction |
+| **Software** | JavaScript, Node.js, HTML/CSS, CLI tools, Git, GitHub, VS Code |
 
 ---
 
